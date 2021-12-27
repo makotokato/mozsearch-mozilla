@@ -30,18 +30,6 @@
       "codesearch_port": 8082
     },
 
-    "comm-central": {
-      "index_path": "$WORKING/comm-central",
-      "files_path": "$WORKING/comm-central/git",
-      "git_path": "$WORKING/comm-central/git",
-      "git_blame_path": "$WORKING/comm-central/blame",
-      "github_repo": "https://github.com/mozilla/releases-comm-central",
-      "hg_root": "https://hg.mozilla.org/comm-central",
-      "objdir_path": "$WORKING/comm-central/objdir",
-      "codesearch_path": "$WORKING/comm-central/livegrep.idx",
-      "codesearch_port": 8083
-    },
-
     "mozilla-mobile": {
       "index_path": "$WORKING/mozilla-mobile",
       "files_path": "$WORKING/mozilla-mobile/git",
